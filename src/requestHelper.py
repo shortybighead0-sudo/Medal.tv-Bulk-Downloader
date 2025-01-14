@@ -8,7 +8,7 @@ def fetch_data(offset):
     cookies = CONFIG['COOKIES']
     sort_direction = CONFIG['SORT_DIRECTION']
     try:
-        url = f"https://medal.tv/api/content?userId={user_id}&limit=100&offset={offset}&sortBy=publishedAt&sortDirection={sort_direction}"
+        url = f"https://medal.tv/api/content?userId={user_id}&limit=60&offset={offset}&sortBy=publishedAt&sortDirection={sort_direction}"
         response = requests.get(url, cookies=cookies)
         if response.status_code == 200:
              data = response.json()
