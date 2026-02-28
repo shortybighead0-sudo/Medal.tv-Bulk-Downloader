@@ -1,0 +1,172 @@
+{
+  "username": "Kyle_Bwafers",
+  "downloads/downloads.txt": "",
+  "cookies": [],
+  "maxClips": -1,
+  "sortDirection": "",
+  "downloadFolder": "downloads",
+  "titleFormat": "{date}_{title}"
+}
+{
+  "username": "Kyle_Bwafers",
+  "cookies": [
+    {
+      "domain": ".medal.tv",
+      "expirationDate": 1695555555,
+      "hostOnly": false,
+      "httpOnly": true,
+      "name": "cookie_name",
+      "path": "/",
+      "sameSite": "Lax",
+      "secure": true,
+      "session": false,
+      "storeId": null,
+      "value": "cookie_value",
+      "id": 1
+    }
+  ]
+}
+[
+    {
+        "domain": ".medal.tv",
+        "expirationDate": 1787690283,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__gpi",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "UID=000010f67862b69c:T=1753994283:RT=1753994283:S=ALNI_MaO6JQtUsIGb_bsAfU7q07oOjh5mw"
+    },
+    {
+        "domain": ".medal.tv",
+        "expirationDate": 1787864569,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "medal-accept-cookie",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "true"
+    },
+    {
+        "domain": ".medal.tv",
+        "expirationDate": 1787864576,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "medal-auth-guest",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "false"
+    },
+    {
+        "domain": ".medal.tv",
+        "expirationDate": 1787690283,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__gads",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "ID=6bce168f88229469:T=1753994283:RT=1753994283:S=ALNI_Ma5ebWXLZH2HDhGiCCF8pqP7yNaQQ"
+    },
+    {
+        "domain": ".medal.tv",
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "_cfuvid",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "oxSzEv3Dp3G03QCh461vmVM1ZNMOojr4YSwEdWx_nMs-1772312559402-0.0.1.1-604800000"
+    },
+    {
+        "domain": ".medal.tv",
+        "expirationDate": 1806008578,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_scor_uid",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "4d352718881a424ea313c48066f72c05"
+    },
+    {
+        "domain": ".medal.tv",
+        "expirationDate": 1787864569,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "cookie-version",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "9"
+    },
+    {
+        "domain": ".medal.tv",
+        "expirationDate": 1787689791.255272,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "IABGPP_HDR_GppString",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "DBABLA~BVQqAAAAAAKQ.QA"
+    },
+    {
+        "domain": ".medal.tv",
+        "expirationDate": 1787864576,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "medal-auth",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "eyJyZWdpc3RlcmVkVXNlciI6dHJ1ZSwidXNlcklkIjoiNDI2NTU2MTA5IiwiaWQiOiI0MjY1NTYxMDkiLCJrZXkiOiJkOWUwYzI3MS04ZjQ5LTRlZjQtODRhYy02NGYyOGYwMzUyZmEiLCJhdXRoIjp7ImtleSI6ImQ5ZTBjMjcxLThmNDktNGVmNC04NGFjLTY0ZjI4ZjAzNTJmYSIsInVzZXJJZCI6IjQyNjU1NjEwOSJ9fQ=="
+    },
+    {
+        "domain": ".medal.tv",
+        "expirationDate": 1787864577,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "medal-feed-recommended-users-shown",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "523136986%2C541957359%2C525696369%2C283552533%2C241238942"
+    },
+    {
+        "domain": ".medal.tv",
+        "expirationDate": 1806008578.253643,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "usprivacy",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1NNN"
+    }
+]
